@@ -1,6 +1,6 @@
 function sum(a, b) {
     let valueA = a;
-    let valueB = a;
+    let valueB = b;
     let result = valueA + valueB;
     return result;
 }
